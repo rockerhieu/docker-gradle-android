@@ -1,4 +1,4 @@
-FROM dockerfile/java:oracle-java8
+FROM greatfox/oraclejdk8:latest
 
 MAINTAINER Hieu Rocker "rockerhieu@gmail.com"
 
